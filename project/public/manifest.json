@@ -1,0 +1,28 @@
+{
+  "name": "FamilyGuard - Controle Parental",
+  "short_name": "FamilyGuard",
+  "description": "Application de controle parental avancee pour proteger vos enfants en ligne",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e293b",
+  "categories": ["family", "utilities", "lifestyle"],
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
